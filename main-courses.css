@@ -1,0 +1,31 @@
+h2 {
+  color: #2c3e50;
+  font-family: 'Arial', sans-serif;
+  text-align: center;
+  margin-top: 2rem;
+}
+body {
+  background-color: #f9f9f9;
+  font-family: 'Verdana', sans-serif;
+  color: #34495e;
+  line-height: 1.6;
+  padding: 1rem;
+}
+
+nav a {
+  display: inline-block;
+  margin-bottom: 1rem;
+  color: #2980b9;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+  margin-top: 1rem;
+  margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
