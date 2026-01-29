@@ -1,0 +1,10 @@
+{
+  "name": "recetas",
+  "version": "1.0.0",
+  "description": "Libro de recetas hecho por todos los alumnos",
+  "license": "GNU",
+  "type": "module",
+  "prettier": {
+    "singleQuote": true
+  }
+}
