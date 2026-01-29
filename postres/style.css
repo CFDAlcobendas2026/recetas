@@ -1,12 +1,31 @@
 body {
     font-family: Arial, sans-serif;
     background-color: #fff0f5;
+
     color: #333;
     margin: 0;
     padding: 0;
 
 }
-
+main {
+    padding: 20px;
+    
+}
+h1, h2, h3 {
+    color: #8f3362;
+    font-family: "Imperial Script", cursive;
+}   
+h3 {
+    margin-top: 30px;
+    font-size: 3rem;
+}
+.media {
+    display: flex;
+    flex-direction: row;
+    align-items: initial;
+    gap: 15px;
+    margin-bottom: 20px;
+}
 .delius-regular {
   font-family: "Delius", cursive;
   font-weight: 400;
@@ -31,4 +50,6 @@ body {
 }
 li {
     margin: 0 15px;
+    font-family: "Delius", cursive;
+   
 }
